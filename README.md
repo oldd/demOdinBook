@@ -1,1 +1,0 @@
-welcome to The Odin Project's module on Javasript. 
